@@ -2,7 +2,7 @@
 
 <p> Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br>
   
-    💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
+    <p>💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
 
 
 
@@ -149,4 +149,4 @@ Se possível:<br>
 
 ------------
 
-Disponibilizado com  por [Flayson Santos](linkedin.com/in/flayson-santos).
+Disponibilizado com  por [Flayson Santos](https://www.linkedin.com/in/flayson-santos "Flayson Santos").
